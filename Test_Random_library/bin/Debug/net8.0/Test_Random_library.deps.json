@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Test_Random_library/1.0.0": {
+        "dependencies": {
+          "Random_library": "1.0.0"
+        },
+        "runtime": {
+          "Test_Random_library.dll": {}
+        }
+      },
+      "Random_library/1.0.0": {
+        "runtime": {
+          "Random_library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test_Random_library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Random_library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
